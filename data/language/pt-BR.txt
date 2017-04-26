@@ -4342,6 +4342,16 @@ STR_6030    :{SMALLFONT}{BLACK}Apanhador de cenário. Clique em qualquer cenári
 STR_6031    :Descrição do Servidor:
 STR_6032    :Saudação do Servidor:
 
+
+
+
+
+
+STR_6039    :{SMALLFONT}{BLACK}Demolir atração rapidamente
+STR_6040    :{BLACK}Sem mecânicos contratados!
+
+
+
 #############
 # Scenarios #
 ################
